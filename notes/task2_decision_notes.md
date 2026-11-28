@@ -1,6 +1,6 @@
 # Task 2: decision notes
 
-These notes were moved out of `task2_prediction.ipynb`, unchanged, to use when writing the report. They are not part of the submission.
+These notes were moved out of the Task 2 notebook (now Section 3.2 of ev_charging_palo_alto.ipynb). The notes are not part of the submission.
 
 ## Notebook introduction
 
